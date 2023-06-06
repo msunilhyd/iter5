@@ -8,8 +8,10 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class TransactionRequest {
+public class TransactionResponse {
 
     private Order order;
-    private Payment payment;
+    private double amount;
+    private String transactionId;
+    private String message;
 }
