@@ -1,8 +1,9 @@
-package service;
+package com.sunil.orderService.api.service;
 
+import com.sunil.orderService.api.entity.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.OrderRepository;
+import com.sunil.orderService.api.repository.OrderRepository;
 
 @Service
 public class OrderService {
@@ -11,6 +12,6 @@ public class OrderService {
     private OrderRepository repository;
 
     public Order saveOrder(Order order){
-        return
+        return repository.save(order);
     }
 }

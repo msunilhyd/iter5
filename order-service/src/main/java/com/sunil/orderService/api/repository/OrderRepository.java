@@ -1,6 +1,6 @@
-package repository;
+package com.sunil.orderService.api.repository;
 
-import entity.Order;
+import com.sunil.orderService.api.entity.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface OrderRepository extends JpaRepository<Order, Integer> {

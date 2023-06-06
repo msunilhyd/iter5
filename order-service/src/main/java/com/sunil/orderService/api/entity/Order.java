@@ -1,4 +1,4 @@
-package entity;
+package com.sunil.orderService.api.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
