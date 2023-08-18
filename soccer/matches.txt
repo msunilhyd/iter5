@@ -1,0 +1,830 @@
+World - FIFA Women's World Cup
+Spain vs England
+
+
+
+
+England - Premier League
+Aston Villa vs Everton
+West Ham vs Chelsea
+
+
+
+
+USA - MLS
+Columbus vs Cincinnati
+Inter Miami vs Charlotte
+New York vs DC United
+NYCFC vs Minnesota
+Toronto vs Montréal
+Chicago vs Orlando
+Houston vs Portland
+St. Louis vs Austin
+Galaxy vs Salt Lake
+Los Angeles vs Colorado
+Sounders vs Atlanta United
+Whitecaps vs Earthquakes
+
+
+
+
+Spain - La Liga
+Girona vs Getafe
+Barcelona vs Cádiz
+Betis vs Atlético
+
+
+
+
+Italy - Serie A
+Roma vs Salernitana
+Sassuolo vs Atalanta
+Lecce vs Lazio
+Udinese vs Juventus
+
+
+
+
+France - Ligue 1
+Lille vs Nantes
+Le Havre vs Brest
+Lorient vs Nice
+Reims vs Clermont
+Monaco vs Strasbourg
+Lens vs Rennes
+
+
+
+
+Germany - Bundesliga
+Union Berlin vs Mainz 05
+Frankfurt vs Darmstadt 98
+
+
+
+
+USA - NWSL
+Pride vs Red Stars
+Thorns vs Courage
+
+
+
+
+Mexico - Liga MX
+Cruz Azul vs Santos Laguna
+Querétaro vs Pachuca
+Atlas vs América
+Necaxa vs Tigres
+
+
+
+
+Netherlands - Eredivisie
+Utrecht vs Heerenveen
+Sparta vs Feyenoord
+Twente vs Zwolle
+Waalwijk vs AZ
+
+
+
+
+Portugal - Primeira Liga
+Estoril vs Rio Ave
+Porto vs Farense
+Vizela vs Arouca
+
+
+
+
+Argentina - Liga Profesional Argentina
+Arsenal vs Instituto
+Sarmiento vs Tigre
+R. Central vs Atl. Tucumán
+Lanús vs San Lorenzo
+Argentinos vs River Plate
+
+
+
+
+Brazil - Serie A
+Vasco vs Atl. Mineiro
+Bahia vs RB Bragantino
+Coritiba vs Flamengo
+Santos vs Grêmio
+
+
+
+
+England - Championship
+Norwich vs Millwall
+
+
+
+
+Canada - Canadian Premier League
+Cavalry vs York
+
+
+
+
+Colombia - Primera A
+Pasto vs Boyacá Chicó
+Envigado vs América
+Medellín vs Petrolera
+Huila vs Atl. Nacional
+
+
+
+
+Turkey - Süper Lig
+Başakşehir vs Fatih
+Beşiktaş vs Pendik
+Gaziantep vs Sivasspor
+
+
+
+
+Belgium - First Division A
+Anderlecht vs Westerlo
+Genk vs Charleroi
+Gent vs Sint-Truiden
+Club Brugge vs RWDM
+Kortrijk vs Eupen
+
+
+
+
+Japan - J1 League
+Yokohama vs Cerezo
+
+
+
+
+Honduras - Liga Nacional
+Real Sociedad vs Victoria
+Vida vs Motagua
+
+
+
+
+Argentina - Primera Nacional
+Agropecuario vs Almagro
+Guillermo Br vs San Telmo
+Alvarado vs All Boys
+Gimn Jujuy vs Maipú
+Racing Córdoba vs Mitre SdE
+Patronato vs Defensores Bel
+
+
+
+
+Argentina - Torneo Federal A
+Liniers BB vs Sansinena
+Atenas vs Ciudad Bolívar
+Ferro Carril vs Argentino MM
+Gim Concepción vs Linqueño
+Ind Chivilcoy vs Las Parejas
+Boca Unidos vs 9 de Julio
+Gimnasia Tiro vs SM Formosa
+Cipolletti vs Sol de Mayo
+Las Heras vs Peñarol
+SM Mendoza vs Juventud UU
+Douglas Haig vs De. Pro.
+Juv Antoniana vs Central Norte
+
+
+
+
+Argentina - Prim B Metro
+Comunicaciones vs Sacachispas
+
+
+
+
+Armenia - Premier League
+West Armenia vs Ararat-Armenia
+Urartu vs Pyunik
+
+
+
+
+Asia - AFF U23 Championship
+Laos vs Vietnam
+Indonesia vs Timor-Leste
+
+
+
+
+Australia - Queensland NPL
+Eastern Sub vs Lions
+Gold Coast Utd vs Rochedale
+Knights vs Olympic
+Moreton Bay vs Peninsula
+Redlands Utd vs Roar
+SC Wanderers vs Brisbane City
+
+
+
+
+Australia - New South Wales NPL
+Blacktown City vs Wolves
+Mariners vs Manly Utd
+Sydney Utd vs St George City
+
+
+
+
+Australia - New South Wales NPL Women
+Bulls vs Macarthur Rams
+Leichhardt vs Ravens
+Bankstown City vs Tigers
+Spartans vs Emerging Jets
+Sydney Olympic vs Manly United
+
+
+
+
+Austria - Bundesliga
+Austria vs WAC
+BW Linz vs Rapid
+Hartberg vs Salzburg
+
+
+
+
+Austria - 2. Liga
+Kapfenberg vs St. Pölten
+
+
+
+
+Belarus - Premier League
+BATE vs Minsk
+Slavia vs Dinamo Brest
+Slutsk vs Dinamo Minsk
+Neman vs Gomel
+
+
+
+
+Belgium - Challenger Pro League
+Lierse K vs Patro
+Francs Borains vs Genk II
+Standard vs Liège
+
+
+
+
+Bolivia - Primera División
+Universitario vs Always Ready
+Nacional vs Wilstermann
+Guabirá vs The Strongest
+
+
+
+
+Brazil - Serie B
+Novorizontino vs Chapecoense
+Ceará vs Ponte Preta
+
+
+
+
+Brazil - Serie C
+CSA vs Remo
+Manaus vs Floresta
+Paysandu vs Pouso Alegre
+Volta Redonda vs Figueirense
+
+
+
+
+Brazil - Serie D
+Anápolis vs Ferroviária
+Portuguesa vs CAP
+Sousa vs Atlético CE
+Ferroviário vs Nacional
+
+
+
+
+Brazil - Copa Paulista
+Ponte Preta B vs Bragantino B
+
+
+
+
+Bulgaria - First League
+Botev vs Krumovgrad
+Cherno more vs Ludogorets
+Levski vs Pirin
+
+
+
+
+Chile - Primera B
+Barnechea vs U. Concepción
+Temuco vs San Felipe
+Iquique vs Recoleta
+
+
+
+
+Chile - Copa Chile
+Colo Colo vs Univ Católica
+Cobresal vs Cobreloa
+
+
+
+
+China PR - CSL
+Changchun vs Cangzhou
+
+
+
+
+China PR - China League One
+Nanjing City vs Dongwu
+Dandong vs Jiuniu
+Guangzhou vs Shijiazhuang
+Xingzhou vs Liaoning
+Lushan vs Dongguan Utd
+
+
+
+
+China PR - China League Two
+BIT vs Lanhang
+Istar vs Tongliang Long
+Red Lions vs Yukun
+Zhixing vs Jiangxi DHJ
+
+
+
+
+China PR - China U21 League
+Guoan vs Shenzhen
+Henan vs Cangzhou
+
+
+
+
+Colombia - Primera B
+Fortaleza vs Boca
+Cartagena vs Bogotá
+Llaneros vs Real Soacha
+
+
+
+
+Costa Rica - Primera División
+Guanacasteca vs SP. San José
+Liberia vs Grecia
+Puntarenas vs Herediano
+
+
+
+
+Croatia - HNL
+Rudeš vs Hajduk
+Osijek vs Gorica
+Rijeka vs Lokomotiva
+
+
+
+
+Cyprus - 1. Division
+Zakakiou vs APOEL
+
+
+
+
+Czech Republic - Czech Liga
+Dynamo CB vs Bohemians 1905
+Králové vs Zlín
+Viktoria Plzeň vs Sigma
+Slavia vs Baník
+
+
+
+
+Denmark - Superliga
+Silkeborg vs Nordsjælland
+Lyngby vs Randers
+Midtjylland vs Brøndby
+OB vs AGF
+
+
+
+
+Denmark - 1. Division
+HB Køge vs Hobro
+
+
+
+
+El Salvador - Primera Division
+Limeño vs Platense
+Once Deportivo vs Fuerte
+Águila vs Dragón
+
+
+
+
+England - Premier League 2
+Reading vs Crystal Palace
+
+
+
+
+Estonia - Meistriliiga
+Kuressaare vs Levadia
+Tallinna Kalev vs Flora
+
+
+
+
+Finland - Veikkausliiga
+Inter Turku vs HJK
+KuPS vs SJK
+
+
+
+
+Finland - Ykkönen
+Gnistan vs Jaro
+
+
+
+
+Germany - 2. Bundesliga
+Braunschweig vs Schalke 04
+Holstein vs Magdeburg
+Osnabrück vs Nürnberg
+
+
+
+
+Germany - 3. Liga
+Dortmund II vs Freiburg II
+Verl vs Regensburg
+RW Essen vs Aue
+
+
+
+
+Germany - Regionalliga
+Cottbus vs Chemnitz
+Greifswald vs Babelsberg
+Eimsbütteler vs Phönix Lübeck
+St. Pauli II vs BW Lohne
+Astoria vs Schott
+Koblenz vs Aalen
+Mainz 05 II vs Steinbach
+Stuttgart II vs Bahlingen
+Bremer SV vs Weiche
+Offenbach vs Eintracht F II
+Jena vs Lok Leipzig
+
+
+
+
+Greece - Super League 1
+OFI vs Aris
+PAOK vs Asteras
+Olympiakos vs Panserraikos
+
+
+
+
+Hong Kong - Premier League
+Eastern vs HK U23
+Sham Shui Po vs Southern
+BC Rangers vs Lee Man
+
+
+
+
+Iceland - Úrvalsdeild
+ÍBV vs Fylkir
+Fram vs KA
+Breidablik vs Keflavík
+HK vs FH
+Valur vs Víkingur R
+
+
+
+
+Iceland - 1. Deild
+Leiknir R vs Vestri
+Njardvík vs Afturelding
+Selfoss vs Thór
+Thróttur R vs ÍA
+
+
+
+
+Indonesia - Liga 1
+Persija vs Arema
+PSIS vs Persib
+
+
+
+
+Israel - Toto Cup Ligat Al
+M Netanya vs H Be'er Sheva
+
+
+
+
+Italy - Serie B
+Südtirol vs Spezia
+Cittadella vs Reggiana
+Parma vs FeralpiSalò
+Venezia vs Como
+
+
+
+
+Japan - J2 League
+ThespaKusatsu vs Zweigen
+Tokushima vs Renofa
+
+
+
+
+Japan - J3 League
+Osaka vs Nara
+
+
+
+
+Korea Republic - K League 1
+Pohang vs Daejeon
+
+
+
+
+Korea Republic - K League 2
+Seoul E-Land vs Busan IPark
+Dragons vs Gimcheon
+
+
+
+
+Latvia - Cup
+Liepāja vs Beitar
+RFS vs JDFS Alberts
+
+
+
+
+Lithuania - A Lyga
+Dainava vs Žalgiris
+H. Litauen vs Kauno Žalgiris
+
+
+
+
+Moldova - Super Liga
+CSF Bălți vs Floreşti
+Sheriff vs Dacia-Buiucani
+
+
+
+
+Norway - Eliteserien
+Brann vs Aalesund
+HamKam vs Rosenborg
+Haugesund vs Bodø/Glimt
+Tromsø vs Sandefjord
+Viking vs Stabæk
+Strømsgodset vs Lillestrøm
+
+
+
+
+Norway - 1. Division
+Åsane vs Bryne
+Fredrikstad vs Kristiansund
+Moss vs Mjøndalen
+Raufoss vs Start
+
+
+
+
+Norway - 2. Division
+IF Fram vs Træff
+Brattvåg vs Grorud
+Kvik vs Junkeren
+Ullern vs TUIL
+
+
+
+
+Paraguay - Division Profesional
+Luqueño vs Cerro Porteño
+Nacional vs Caballero JLM
+
+
+
+
+Peru - Primera División
+Sp. Cristal vs Dep. Municipal
+Cienciano vs Alianza Lima
+
+
+
+
+Poland - Ekstraklasa
+ŁKS Łódź vs Pogoń
+Śląsk vs Lech
+Legia vs Kielce
+
+
+
+
+Poland - I Liga
+Arka vs Tychy
+Miedź vs Stal Rzeszów
+Resovia vs Lechia
+
+
+
+
+Portugal - Segunda Liga
+Vilaverdense vs UD Oliveirense
+Belenenses vs Porto II
+Feirense vs Penafiel
+
+
+
+
+Republic of Ireland - FAI Cup
+Patrick's CY vs Wexford
+Derry vs St Pat's
+
+
+
+
+Romania - Liga I
+Rapid vs Farul
+FCSB vs Iaşi
+
+
+
+
+Scotland - League Cup
+Hearts vs Partick
+Hibernian vs Raith Rovers
+Kilmarnock vs Celtic
+
+
+
+
+Scotland - SWPL 1
+Hibernian vs Montrose
+Partick vs Glasgow City
+Celtic vs Hamilton
+Hearts vs Dundee Utd
+Motherwell vs Spartans
+Rangers vs Aberdeen
+
+
+
+
+Serbia - Super Liga
+Radnički Krag vs Partizan
+Radnik vs Novi Pazar
+Javor vs TSC
+Napredak vs Mladost Lučani
+
+
+
+
+Singapore - Premier League
+Balestier vs Albirex
+
+
+
+
+Slovakia - Super Liga
+Spartak vs Podbrezová
+Zlaté Moravce vs DAC 1904
+
+
+
+
+Slovenia - 1. SNL
+Rogaška vs Maribor
+Domžale vs Celje
+
+
+
+
+South Africa - PSL
+TS Galaxy vs Kaizer Chiefs
+
+
+
+
+Spain - Segunda División
+Real Oviedo vs Racing Ferrol
+Gijón vs Mirandés
+Albacete vs Amorebieta
+
+
+
+
+Sweden - Allsvenskan
+Häcken vs Sirius
+Malmö vs Djurgården
+Elfsborg vs Mjällby
+Kalmar vs Hammarby
+
+
+
+
+Sweden - Superettan
+Örgryte vs Östersunds FK
+Trelleborg vs Öster
+
+
+
+
+Sweden - Ettan
+Stockholm Int. vs Umeå
+Oddevold vs Eskilsminne
+Sandviken vs United Nordic
+
+
+
+
+Thailand - Thai League 1
+Buriram Utd vs Lamphun
+Sukhothai vs Trat
+
+
+
+
+Thailand - Thai League 2
+Chanthaburi vs Nakhon Si Utd
+Samut Prakan vs Chiangmai
+Kasetsart vs Phrae
+Chiangmai Utd vs Ayutthaya Utd
+
+
+
+
+Tunisia - Ligue 1
+Métlaoui vs Tataouine
+Sfax vs Bizertin
+
+
+
+
+Turkey - 1. Lig
+Bandırma vs Boluspor
+Manisa FK vs Keçiörengücü
+Sakaryaspor vs Gençlerbirliği
+Altay vs Tuzla
+
+
+
+
+Ukraine - Premier League
+Dnipro-1 vs Obolon' Kyiv
+Chornomorets vs Dynamo Kyiv
+Kryvbas KR vs Shakhtar D
+
+
+
+
+Ukraine - Persha Liga
+Bukovyna vs Prykarpattia
+Nyva Ternopil vs FK Metalist
+
+
+
+
+Uruguay - Primera División
+Boston River vs Racing
+Danubio vs City Torque
+Liverpool vs Nacional
+
+
+
+
+USA - MLS Next Pro
+Whitecaps FC 2 vs Austin II
+
+
+
+
+Venezuela - Primera División
+Metropolitanos vs Caracas
+Portuguesa vs Rayo Zuliano
+
+
+
+

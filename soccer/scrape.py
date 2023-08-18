@@ -1,53 +1,21 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
-import lxml
-import time 
 
-options = Options()
-options.add_argument('--allow-running-insecure-content')
-options.add_argument('--ignore-certificate-errors')
+html_file = open('data.html', "r", encoding="utf-8")
+soup = BeautifulSoup(html_file.read(), 'lxml')
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+league_divs = soup.find_all('div', class_='competition_competition__s2ULZ')
 
-driver.get("https://www.goal.com/en-us/fixtures/2023-08-20")
+with open('matches.txt', 'w', encoding='utf-8') as f:
+    for div in league_divs:
+        div_txt = div.text
+        league_name = div.find('a', class_='competition_name__YEMb_')
+        f.write(league_name.text + '\n')
+        matches_div = div.find('div', class_='round-wrapper')
+        all_matches = matches_div.find_all('div', class_='row_row__UQmGm row')
+        for match in all_matches:
+            team_a = match.find("div", class_='team_team___lVK_ team_team-a__2YS_9')
+            team_b = match.find("div", class_='team_team___lVK_ team_team-b__YaeU1')
+        
+            f.write(team_a.text + ' vs ' + team_b.text + '\n')
 
-time.sleep(10)
-
-divs = driver.find_elements("xpath", "//div[contains(@class, 'competition_competition__s2ULZ')]")
-
-driver.close
-i = 0
-print(type(divs))
-
-while i < len(divs):
-    div = divs[i]
-    div_txt = div.text
-    league_name = div.find_element("xpath", "//a[contains(@class, 'competition_name__YEMb_')]")
-    team_a = div.find_element("xpath", "//div[contains(@class, 'team_team___lVK_ team_team-a__2YS_9')]")
-    team_b = div.find_element("xpath", "//div[contains(@class, 'team_team___lVK_ team_team-b__YaeU1')]")
-    
-    print("league = " +league_name.text)
-    print(team_a.text)
-    print(team_b.text)
-    print("div.txt = " + div_txt)
-    i += 1;
-    if (i == 3):
-        break
-# for div in divs:
-#     league_name = div.find_element("xpath", "//a[contains(@class, 'competition_name__YEMb_')]")
-#     team_a = div.find_element("xpath", "//div[contains(@class, 'team_team___lVK_ team_team-a__2YS_9')]")
-#     team_b = div.find_element("xpath", "//div[contains(@class, 'team_team___lVK_ team_team-b__YaeU1')]")
-    
-#     print("league = " +league_name.text)
-#     print(team_a.text)
-#     print(team_b.text)
-#     print(div.text)
-#     i += 1;
-#     print("============")
-#     if (i == 2):
-#       break
-
-# # driver.get("https://www.goal.com/en-us/fixtures/2023-08-18")
+        f.write('\n\n\n\n')
