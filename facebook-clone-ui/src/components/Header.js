@@ -47,7 +47,45 @@ const Header = () => {
             <AiOutlineShop className="mx-auto text-gray-500" size={25} />
           </div>
           <div className="flex items-center h-14 px-4 md:px-10 rounded-md md:hover:bg-gray-100 cursor-ponter">
-
+            <IoGameControllerOutline 
+              className="mx-auto text-gray-500"
+              size={25}
+            />
           </div>
         </div>
       </div>
+
+    {/* {Right} */}
+    <div className="flex items-center space-x-2 justify-end min-w-fit">
+      <Image
+        src={session?.user.image}
+        height={40}
+        width={40}
+        onClick={signOut}
+        className="rounded-full cursor-pointer"
+      />
+      <p className="hidden xl:inline-flex font-semibold text-sm whitespace-nowrap p-3 max-w-xs">
+        {session.user.name.split(" ")[0]}
+      </p>
+      <CgMenuGridO
+        size={20}
+        className=" hidden lg:inline-flex h-10 w-10 bg-gray-20- text-gray-600 rounded-full p-2 cursor-pointer hover:bg-gray-300"
+      />
+      <AiFillMessage
+        size={20}
+        className=" hidden lg:inline-flex h-10 w-10 bg-gray-200 text-gray-600 rounded-full p-2 cursor-pointer hover:bg-gray-300"
+      />
+      <AiFillBell
+        size={20}
+        className=" hidden lg:inline-flex h-10 w-10 bg-gray-200 text-gray-600 rounded-full p-2 cursor-pointer hover:bg-gray-300"
+      />
+      <MdOutlineExpandMore
+        size={20}
+        className=" hidden lg:inline-flex h-10 w-10 bg-gray-200 text-gray-600 rounded-full p-2 cursor-pointer hover:bg-gray-300"
+      />
+    </div>
+</div>
+  );
+}
+
+export default Header;
