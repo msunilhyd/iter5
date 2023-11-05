@@ -42,6 +42,55 @@ export const parseData = async (items: any[]) => {
     );
     const {
       data: { items: videoData },
-    }
+    } = await axios.get(
+      `${YOUTUBE_API_URL}/videos?part=contentDetails, statistics&id=${videoIds.join(
+        ","
+      )}&key=${API_KEY}`
+    );
+    const parsedData: HomePageVideos[] = [];
+    items.forEach(
+      (
+        item: {
+          snippet: {
+            channelId: string;
+            title: string;
+            description: string;
+            thumnails: { medium: { url: string } };
+            publishedAt: Date;
+            channelTitle: string;
+          };
+          id: { videoId: string};
+        },
+        index: number
+      ) => {
+        const { image: channelImage } = parsedChannelsData.find(
+          (data) => data.id === item.snippet.channelId
+        )!;
+        if (channelImage)
+          parsedData.push({
+            videoId: item.id.videoId,
+            videoTitle: item.snippet.title,
+            videoDescription: item.snippet.description,
+            videoThumbnail: item.snippet.thumbnails.medium.url,
+            videoLink: `https://www.youtube.com/watch?v=${item.id.videoId}`,
+            videoDuration: parseVideoDuration(
+              videosData[index].contentDetails.duration
+            ),
+            videoViews: converRawViewstoString(
+              videosData[index].statistics.viewCount
+            ),
+            videoAge: timeSince(new Date(item.snippet.publishedAt)),
+            channelInfo: {
+              id: item.snippet.channelId,
+              image: channelImage,
+              name: item.snippet.channelTitle,
+            },
+          });
+      }
+    );
+
+    return parsedData;
+  } catch (err) {
+      console.log(err);
   }
-}
+};
