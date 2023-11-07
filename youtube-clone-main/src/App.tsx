@@ -9,8 +9,8 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/search" element={<Search />} />
-        <Route path="/watch/:id" element={<Watch />} />
-        <Route path="/" element={<Home />} />
+        <Route path="/watch/:id" element={<Watch /> } />
+        <Route path="/" element={<Home /> } />
       </Routes>
     </BrowserRouter>
   );
