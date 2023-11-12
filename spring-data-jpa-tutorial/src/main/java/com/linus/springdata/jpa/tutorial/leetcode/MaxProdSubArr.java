@@ -3,7 +3,7 @@ package com.linus.springdata.jpa.tutorial.leetcode;
 public class MaxProdSubArr {
 
     public static void main(String[] args) {
-        int[] arr = {2, 1, 0, 4, 1, -1};
+        int[] arr = {5, 3, 1, -2, 0, -5, 8, -3};
         System.out.println(maxProd(arr));
     }
 
@@ -18,13 +18,10 @@ public class MaxProdSubArr {
 
         // [2, 1, 0];
 
-
-
         for (int i=1; i<nums.length; i++) {
             int cur = nums[i];
-            int temp = Math.max(cur, Math.max(max*cur, min*cur));
+            max = Math.max(cur, Math.max(max*cur, min*cur));
             min = Math.min(cur, Math.min(min*cur, max*cur));
-            max = temp;
 
             result = Math.max(result, max);
         }
