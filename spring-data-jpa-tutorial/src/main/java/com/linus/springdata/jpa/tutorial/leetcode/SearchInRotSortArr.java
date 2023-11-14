@@ -3,7 +3,7 @@ package com.linus.springdata.jpa.tutorial.leetcode;
 public class SearchInRotSortArr {
 
     public static void main(String[] args) {
-        int[] nums = {7, 8, 9, 4, 5, 6};
+        int[] nums = {7, 8, 9, 3, 4, 5, 6};
         System.out.println(search(nums, 9));
     }
 
