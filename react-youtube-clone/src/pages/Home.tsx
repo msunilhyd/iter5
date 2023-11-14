@@ -5,6 +5,9 @@ import Sidebar from '../components/Sidebar';
 import Spinner from '../components/Spinner';
 import { useAppDispatch, useAppSelector } from '../store/hooks';
 import { getHomePageVideos } from '../store/reducers/getHomePageVideos';
+import InfiniteScroll from 'react-infinite-scroll-component';
+import { HomePageVideos } from '../Types';
+import Card from '../components/Card';
 
 export default function Home() {
   const dispatch = useAppDispatch();
