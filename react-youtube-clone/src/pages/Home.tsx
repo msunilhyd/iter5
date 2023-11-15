@@ -14,6 +14,12 @@ export default function Home() {
   const videos = useAppSelector((state) => state.youtubeApp.videos);
   
   useEffect(() => {
+    return () => {
+      dispatch(clearVideos());
+    };
+  }, [dispatch]);
+
+  useEffect(() => {
     dispatch(getHomePageVideos(false));
   }, [dispatch]);
 
