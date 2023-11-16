@@ -8,6 +8,7 @@ import { getHomePageVideos } from '../store/reducers/getHomePageVideos';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import { HomePageVideos } from '../Types';
 import Card from '../components/Card';
+import { clearVideos } from '../store';
 
 export default function Home() {
   const dispatch = useAppDispatch();
