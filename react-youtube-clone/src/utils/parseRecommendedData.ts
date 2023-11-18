@@ -16,7 +16,7 @@ export const parseRecommendedData = async (items: Item[], videoId: string) => {
     const newItems: Item[] = [];
     items.forEach((item: Item) => {
       channelIds.push(item.snippet.channelId);
-      if (item.contentDetails?.upload?videoId) {
+      if (item.contentDetails?.upload?.videoId) {
         videoIds.push(item.contentDetails.upload.videoId);
         newItems.push(item);
       }
@@ -51,6 +51,7 @@ export const parseRecommendedData = async (items: Item[], videoId: string) => {
         },
       });
     });
+    console.log(parsedData);
     return parsedData;
   } catch (err) {
     console.log(err);
