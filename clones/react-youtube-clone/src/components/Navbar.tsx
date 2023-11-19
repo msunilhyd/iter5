@@ -1,7 +1,7 @@
 import React from "react";
 import { AiOutlineSearch, AiOutlineClose } from "react-icons/ai";
 import { TiMicrophone } from "react-icons/ti";
-import { BsYoutube, BsCameraVideo, BsBell } from "react-icons/bs";
+import { BsCollectionPlay, BsCameraVideo, BsBell } from "react-icons/bs";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoAppsSharp } from "react-icons/io5";
 import { Link, useLocation, useNavigate } from "react-router-dom";
@@ -30,8 +30,8 @@ export default function Navbar() {
         </div>
         <Link to="/">
           <div className="flex gap-1 items-center justify-center">
-            <BsYoutube className="text-3xl text-red-600" />
-            <span className="text-xl font-medium">YouTube</span>
+            <BsCollectionPlay className="text-3xl text-pink-600" />
+            <span className="text-xl font-medium">LinusPlaylists</span>
           </div>
         </Link>
       </div>
