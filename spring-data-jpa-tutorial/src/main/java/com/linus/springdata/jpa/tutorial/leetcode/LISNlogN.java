@@ -1,6 +1,7 @@
 package com.linus.springdata.jpa.tutorial.leetcode;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class LISNlogN {
@@ -8,6 +9,9 @@ public class LISNlogN {
     public static void main(String[] args) {
         int arr[] = {10, 9, 2, 5, 3, 7, 101, 1};
         System.out.println(find(arr));
+
+        int[][] mat = new int[2][4];
+        System.out.println(Arrays.deepToString(mat));
     }
 
     public static int find(int[] arr) {
